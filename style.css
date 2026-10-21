@@ -121,6 +121,9 @@ details p{margin:0 0 18px;color:var(--soft)}
 }
 @media (prefers-reduced-motion:reduce){.btn,.btn::after{animation:none}}
 
+.demo-for{display:inline-block;margin:0 0 14px;padding:7px 14px;border:1px dashed var(--g-hi);border-radius:999px;color:var(--g-hi);font:600 14px/1.2 'Golos Text',sans-serif;letter-spacing:.04em}
+.ph figcaption{position:relative;margin-top:12px;font:600 17px/1.3 'Cormorant Garamond',Georgia,serif;color:var(--cream)}
+.ph{margin:0}
 .meta{margin:18px 0 0;color:var(--soft);font-size:16px;line-height:1.7}
 .rows3 li{grid-template-columns:minmax(0,2fr) auto minmax(0,.8fr);align-items:center}
 .rows3 span{color:var(--g-hi);font:700 22px/1.2 'Cormorant Garamond',Georgia,serif;white-space:nowrap}
